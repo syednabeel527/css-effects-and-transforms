@@ -3,3 +3,8 @@ div {
     width: 200px;
     background-color: rgba(255,0,0,1);
 }
+
+#opacity{
+    background-color: #12ff45;
+    opacity: 1;
+}
