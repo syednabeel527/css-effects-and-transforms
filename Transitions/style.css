@@ -2,7 +2,9 @@ div {
     height: 200px;
     width: 200px;
     background-color: green;
-    transition: 4s;
+    transition-duration: 4s;
+    transition-delay: 1s ;
+
 }
 
 div:hover {
