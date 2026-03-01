@@ -12,3 +12,5 @@ A collection of hands-on CSS examples covering transitions, transforms, opacity,
 
 # Output
 ![Alpha_Opacity](Images/Alpha.png)
+![Opacity](Images/Opacity.png)
+![Transitions](Images/transform.png)
