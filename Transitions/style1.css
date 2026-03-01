@@ -1,0 +1,40 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    margin-bottom: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+div:nth-of-type(2n){
+    background-color: pink;
+}
+
+div:nth-of-type(3n){
+    background-color: blue;
+}
+
+#one{
+    transform: rotate(45deg);
+}
+
+#two{
+    transform: scale(0.5);
+}
+
+#three{
+    transform: translate(-50px , -20px);
+}
+
+#four:hover{
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+    transition: 2s ease-in 2s;
+    transform: skew(30deg);
+}
+
+#five{
+    transform: rotate(30deg) translate(150px) ;
+}
