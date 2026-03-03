@@ -14,3 +14,4 @@ A collection of hands-on CSS examples covering transitions, transforms, opacity,
 ![Alpha_Opacity](Images/Alpha.png)
 ![Opacity](Images/Opacity.png)
 ![Transitions](Images/transform.png)
+![Applied all effects and transform and transition](Images/All-effects.mp4)
