@@ -1,0 +1,7 @@
+div{
+    height: 150px;
+    width: 150px;
+    background-color: rgba(184, 0, 0, 0.962);
+    background-image: url("Bgimage.jpg");
+    background-size: contain;
+}
